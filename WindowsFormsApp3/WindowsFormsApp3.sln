@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp3", "WindowsFormsApp3\WindowsFormsApp3.csproj", "{A50C2A38-3541-4AD2-A93F-764CABBFADA3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Cadastrador", "..\Installer\Cadastrador\Cadastrador.vdproj", "{A212A796-AC4B-4160-AF6A-537D0D780181}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A50C2A38-3541-4AD2-A93F-764CABBFADA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A50C2A38-3541-4AD2-A93F-764CABBFADA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A50C2A38-3541-4AD2-A93F-764CABBFADA3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A50C2A38-3541-4AD2-A93F-764CABBFADA3}.Debug|x86.Build.0 = Debug|Any CPU
+		{A50C2A38-3541-4AD2-A93F-764CABBFADA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A50C2A38-3541-4AD2-A93F-764CABBFADA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A50C2A38-3541-4AD2-A93F-764CABBFADA3}.Release|x86.ActiveCfg = Release|Any CPU
+		{A50C2A38-3541-4AD2-A93F-764CABBFADA3}.Release|x86.Build.0 = Release|Any CPU
+		{A212A796-AC4B-4160-AF6A-537D0D780181}.Debug|Any CPU.ActiveCfg = Debug
+		{A212A796-AC4B-4160-AF6A-537D0D780181}.Debug|x86.ActiveCfg = Debug
+		{A212A796-AC4B-4160-AF6A-537D0D780181}.Release|Any CPU.ActiveCfg = Release
+		{A212A796-AC4B-4160-AF6A-537D0D780181}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {018A9126-EF0E-409D-8B72-9D0FC0EEA97C}
+	EndGlobalSection
+EndGlobal
