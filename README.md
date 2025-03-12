@@ -1,5 +1,5 @@
 # Cadiv-Cadastro_de_Divulgadores
-Projeto de 2020 criado para uma garagem de veículos.
+Projeto de 2020 criado para uma garagem de veículos utilizando C# Windows Forms e MySql.
 
 Documetação de Requisitos completa anexo.
 
