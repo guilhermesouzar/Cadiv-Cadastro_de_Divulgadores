@@ -1,6 +1,7 @@
 # Cadiv-Cadastro_de_Divulgadores
 Projeto de 2020 criado para uma garagem de veículos.
-Documetaçaõ de Requisitos completa anexo.
+
+Documetação de Requisitos completa anexo.
 
 Escopo do Produto  
 “Cadiv” é um software desktop que tem como característica básica fornecer para o 
